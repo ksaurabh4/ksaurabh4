@@ -21,6 +21,7 @@
 <br />
 <br />
 
+---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Variable Scope Chain and Variable Environment – The Core Concepts](https://whynotgoogleit.com/variable-scope-chain/?utm_source=rss&utm_medium=rss&utm_campaign=variable-scope-chain)
