@@ -37,6 +37,7 @@
 # My GitHub Stats
 
 [![Kumar Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaurabh4)](https://github.com/ksaurabh4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksaurabh4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ksaurabh4/ksaurabh4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
