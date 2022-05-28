@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kumar saurabh, a Project Lead (full stack developer)
-- 👀 I’m interested in collaboration on projects and new learning  
+- 👀 I’m interested in collaboration on long term projects and new learning  
 - 🌱 I’m currently learning algorithm and data structure to enhance my clients projects
 - 💞️ I’m looking to collaborate on new projects
 - 📃 Portfolio at https://ksaurabh4.github.io/portfolio
