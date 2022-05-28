@@ -26,6 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Accept the change - Inspirational Stories in Hindi || Stories in hindi with moral](https://www.youtube.com/watch?v=TkacqGt_j-Q)
+- [हम जल्दी GIVE UP क्यूं कर देते हैं || 13 Reasons Why Do Some People Easily Give Up in 2020 &lpar;Hindi&rpar;](https://www.youtube.com/watch?v=9o1VgmZEcHw)
+- [Investment Mistakes To Avoid &lpar;HINDI&rpar; || 10 Investment Tips By Warren Buffett &lpar;2020&rpar;](https://www.youtube.com/watch?v=veVPFAIbMMg)
+- [मेरे घर में सत्यनारायण भगवान की पुजा || Satyanarayan Bhagwan Ki Pooja At My Home During Corona Time](https://www.youtube.com/watch?v=jWJJZ7Cs09M)
+- [Best Motivational Real Life Story of Chris Gardner &lpar;Hindi&rpar;](https://www.youtube.com/watch?v=w7VFGoIYv8k)
 <!-- YOUTUBE:END -->
 
 <!---
