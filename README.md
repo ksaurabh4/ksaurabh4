@@ -34,7 +34,7 @@
 - [Best Motivational Real Life Story of Chris Gardner &lpar;Hindi&rpar;](https://www.youtube.com/watch?v=w7VFGoIYv8k)
 <!-- YOUTUBE:END -->
 
-### 📺 My GitHub Stats
+#My GitHub Stats
 
 [![Kumar Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaurabh4)](https://github.com/ksaurabh4/github-readme-stats)
 
