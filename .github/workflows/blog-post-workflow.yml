@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "STACKOVERFLOW"
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.whynotgoogleit.com,https://www.whynotgoogleit.com/feed"
