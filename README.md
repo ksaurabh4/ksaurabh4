@@ -1,4 +1,4 @@
-#  Hi, I’m kumar saurabh, a Project Lead (full stack developer)  👋 
+#  Hi, I’m Kumar Saurabh, a Project Lead (full stack developer)  👋 
 
 - 👀 I’m interested in collaboration on long term projects and new learning  
 - 🌱 I’m currently learning system design for large scale projects.
