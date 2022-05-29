@@ -1,10 +1,11 @@
-#  Hi, I’m Kumar Saurabh, a Project Lead (full stack developer)  👋 
+#  Hi, I’m Kumar Saurabh, a Learner, Coder, Traveller 👋 
 
 - 👀 I’m interested in collaboration on long term projects and new learning  
 - 🌱 I’m currently learning system design for large scale projects.
 - 💞️ I’m looking to collaborate on new projects
 - 📃 Portfolio at https://ksaurabh4.github.io/portfolio
 - 📫 Reach me at ksaur1990@gmail.com
+- 📺 Follow me for JavaScript related content
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
