@@ -8,9 +8,11 @@
 - 📺 Follow me for JavaScript related content
 
 
-  <a href="http://twitter.com/ksaurabh4" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ksaurabh4?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Kumar Saurabh's Twitter"/>
+  <p align="left">
+  <a href="https://twitter.com/intent/follow?screen_name=ksaurabh4" target="blank">
+  <img src="https://img.shields.io/twitter/follow/ksaurabh4?logo=twitter&style=for-the-badge" alt="kumar saurabh"/>
   </a>
+  </p>
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
