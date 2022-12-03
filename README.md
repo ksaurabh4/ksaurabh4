@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning system design for large scale projects.
 - 💞️ I’m looking to collaborate on new projects
 - 📃 Portfolio at https://ksaurabh4.github.io/portfolio
-- 💻 My Blogging Site at https://whynotgoogleit.com/
+- 💻 My Blogging Site at http://whynotgoogleit.com/
 - 📫 Reach me at ksaur1990@gmail.com
 - 📺 Follow me for JavaScript related content
 
