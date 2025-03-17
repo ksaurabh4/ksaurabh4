@@ -28,7 +28,7 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by Kumar Saurabh for After Loading Page in Inspect Mode ,Shows No Internet Error.How to resolve this issue?](https://stackoverflow.com/questions/72114855/after-loading-page-in-inspect-mode-shows-no-internet-error-how-to-resolve-this/78988940#78988940)
 - [Answer by Kumar Saurabh for React google map api integrating inforWindow on click of marker](https://stackoverflow.com/questions/72451195/react-google-map-api-integrating-inforwindow-on-click-of-marker/72578344#72578344)
-- [Answer by Kumar Saurabh for Mui-Datatable onTableChange is not working when adding a setState](https://stackoverflow.com/questions/71761479/mui-datatable-ontablechange-is-not-working-when-adding-a-setstate/71761718#71761718)
+- [Answer by Kumar Saurabh for mui-datatables onTableChange is not working when adding a setState](https://stackoverflow.com/questions/71761479/mui-datatables-ontablechange-is-not-working-when-adding-a-setstate/71761718#71761718)
 - [Answer by Kumar Saurabh for `javascript` Can we use map function again using map function argument value?](https://stackoverflow.com/questions/71761415/javascript-can-we-use-map-function-again-using-map-function-argument-value/71761496#71761496)
 - [Answer by Kumar Saurabh for Req.Params.Token returns undefined](https://stackoverflow.com/questions/71761359/req-params-token-returns-undefined/71761422#71761422)
 <!-- STACKOVERFLOW:END -->
